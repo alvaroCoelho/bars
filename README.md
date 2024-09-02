@@ -1,3 +1,8 @@
+The goal of this test project application is to gather the list of Foursquare venues that are specialized in coffee or cocktails close to your current location (within a certain radius) and display them in a grid. The list should be filtered by price (options: $, $$, $$$, $$$$) using a drop down component and availability
+(Open Now) using a toggle.
+
+This project has two flavors - Coffee and Cocktails
+
 frameworks used in the project:
 
 Hilt - Provides a standard way to do in-app DI, providing containers for each Android component in the project and managing the container lifecycle automatically. For use the Dagger was also used.
