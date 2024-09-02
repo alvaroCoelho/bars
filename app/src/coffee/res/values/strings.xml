@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bars</string>
+    <string name="empty">Empty</string>
+    <string name="loading">Loading</string>
+    <string name="error">Error</string>
+    <string name="title_home">Coffee shops near you</string>
+    <string name="select_price">Select Price</string>
+    <string name="price">Price:</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="you_need_permission_location_to_continue">You need permission location to continue</string>
+    <string name="find">"Find "</string>
+    <string name="venue">coffee</string>
+    <string name="shop">shop</string>
+    <string name="of">of</string>
+    <string name="near_you">near you</string>
+</resources>

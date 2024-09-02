@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bars</string>
+    <string name="empty">Vacío</string>
+    <string name="loading">Cargando</string>
+    <string name="error">Error</string>
+    <string name="title_home">"Cafeterías cerca de ti"</string>
+    <string name="select_price">Premios</string>
+    <string name="price">Premio:</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="you_need_permission_location_to_continue">Necesitas permiso de ubicación para continuar</string>
+    <string name="find">Busque</string>
+    <string name="venue">café</string>
+    <string name="shop">tiendas</string>
+    <string name="of">de</string>
+    <string name="near_you">cerca de ti</string>
+</resources>
